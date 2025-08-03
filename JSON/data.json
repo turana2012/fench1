@@ -1,0 +1,88 @@
+{
+  "cards": [
+    {
+      "id": "1",
+      "title": "Футболка Oversize",
+      "description": "Стильная хлопковая футболка свободного кроя.",
+      "price": 1990,
+      "images": ["https://example.com/img1.jpg"]
+    },
+    {
+      "id": "2",
+      "title": "Джинсы Slim Fit",
+      "description": "Узкие джинсы с удобной посадкой.",
+      "price": 3490,
+      "images": ["https://example.com/img2.jpg"]
+    },
+    {
+      "id": "3",
+      "title": "Кроссовки AirMax",
+      "description": "Удобная спортивная обувь для повседневной носки.",
+      "price": 7590,
+      "images": ["https://example.com/img3.jpg"]
+    },
+    {
+      "id": "4",
+      "title": "Рюкзак Urban",
+      "description": "Прочный городской рюкзак с множеством карманов.",
+      "price": 2990,
+      "images": ["https://example.com/img4.jpg"]
+    },
+    {
+      "id": "5",
+      "title": "Очки солнцезащитные",
+      "description": "Защита от UV-лучей, стильная оправа.",
+      "price": 990,
+      "images": ["https://example.com/img5.jpg"]
+    },
+    {
+      "id": "6",
+      "title": "Свитшот унисекс",
+      "description": "Тёплый свитшот из плотного хлопка.",
+      "price": 2590,
+      "images": ["https://example.com/img6.jpg"]
+    },
+    {
+      "id": "7",
+      "title": "Часы цифровые",
+      "description": "Водонепроницаемые часы с будильником.",
+      "price": 1890,
+      "images": ["https://example.com/img7.jpg"]
+    },
+    {
+      "id": "8",
+      "title": "Поясная сумка",
+      "description": "Удобная и лёгкая, отлично подходит для города.",
+      "price": 1290,
+      "images": ["https://example.com/img8.jpg"]
+    },
+    {
+      "id": "9",
+      "title": "Кепка Snapback",
+      "description": "Классическая кепка с регулировкой размера.",
+      "price": 890,
+      "images": ["https://example.com/img9.jpg"]
+    },
+    {
+      "id": "10",
+      "title": "Пуховик зимний",
+      "description": "Тёплый пуховик на холодную погоду.",
+      "price": 8990,
+      "images": ["https://example.com/img10.jpg"]
+    },
+    {
+      "id": "11",
+      "title": "Носки (набор 5 пар)",
+      "description": "Базовые носки из хлопка. Цвета: чёрный/белый.",
+      "price": 590,
+      "images": ["https://example.com/img11.jpg"]
+    },
+    {
+      "id": "12",
+      "title": "Спортивные шорты",
+      "description": "Дышащий материал, карманы на молнии.",
+      "price": 1490,
+      "images": ["https://example.com/img12.jpg"]
+    }
+  ]
+}
