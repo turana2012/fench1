@@ -2,7 +2,7 @@
   "name": "fench1-json",
   "version": "1.0.0",
   "scripts": {
-    "start": "json-server --watch db.json"
+    "start": "json-server --watch db.json --port 3000"
   },
   "dependencies": {}
 }

@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3001/cards';
+const API_URL = 'http://localhost:3000/cards';
 
 async function getposts() {
   const res = await fetch(API_URL);
